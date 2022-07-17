@@ -9,12 +9,12 @@ const Topbar = ({ menuOpen, setMenuOpen }) => {
                 <div className="left">
                     <a href="#intro" className="logo">GENIUS.</a>
                     <div className="itemContainer">
-                        <PersonIcon classname="icon"/>
+                        <PersonIcon className="icon"/>
                         <span>number</span>
                     </div>
                     <div className="itemContainer">
-                        <EmailIcon classname="icon"/>
-                        <span>email</span>
+                        <EmailIcon className="icon"/>
+                        <span>zhernosek.zahar@mail.ru</span>
                     </div>
                 </div>
                 <div className="right">
